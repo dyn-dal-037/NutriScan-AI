@@ -12,12 +12,12 @@ The **NutriScan App** is an AI-powered tool designed to evaluate the nutritional
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/adarshkatare6/Nutritionist-app.git
+   git clone https://github.com/dyn-dal-37/NutriScan-AI.git
    ```  
 
 2. **Navigate to the Project Directory**  
    ```bash
-   cd Nutritionist-app
+   cd NutriScan-AI
    ```  
 
 3. **Install Dependencies**  
