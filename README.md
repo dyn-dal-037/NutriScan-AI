@@ -1,4 +1,4 @@
-# NutriScan AI App 🥗🍏  
+# NutriScan AI App 🥗🍏  **(A lot of furthur enhancements are to be uploaded soon)**
 
 The **NutriScan App** is an AI-powered tool designed to evaluate the nutritional quality of food products by analyzing their ingredient lists. Users can upload an image of a product’s ingredients, and the app extracts and processes the data to generate a health rating from **1 to 10**. This tool helps individuals make more informed dietary choices by providing quick insights into food nutrition.  
 
